@@ -1,8 +1,12 @@
 # Secure VPN for Remote Access (Lab Project)
 
-A small VMware lab that builds and tests a VPN with both site-to-site and client-to-site access, using open-source tools only.
+A small VMware lab that builds and tests a VPN with both site-to-site and client-to-site access, using open-source tools only. This is a learning lab on virtual machines. It is not a production deployment.
 
 **Author:** Kshitij Rajesh Randhire
+
+The lab design, configuration, testing and screenshots are my own work. I used Claude (an AI assistant) only to help draft and edit the wording of the documents.
+
+**Tools:** OpenVPN, strongSwan, Easy-RSA/OpenSSL, Google Authenticator (PAM), iptables, rsyslog, fail2ban, iperf3, Wireshark, VMware, Kali Linux, Ubuntu 24.04
 
 ## What was built
 
